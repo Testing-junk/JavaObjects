@@ -12,4 +12,19 @@ public class Car {
     boolean isStarted;
 
 
+    public void startCar() {
+
+    }
+
+    public void turnLeft() {
+
+    }
+
+    public void turnRight() {
+
+    }
+
+    public void drive() {
+
+    }
 }
